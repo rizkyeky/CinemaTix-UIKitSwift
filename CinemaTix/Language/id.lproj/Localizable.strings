@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CinemaTix
+
+  Created by Eky on 12/12/23.
+  
+*/
+
+"LanguageStrings_signIn" = "Masuk";
+"LanguageStrings_register" = "Daftar";
+"LanguageStrings_home" = "Beranda";
+"LanguageStrings_wallet" = "Dompet";
+"LanguageStrings_profile" = "Profil";
+"LanguageStrings_playingNow" = "Sekarang Diputar";
+"LanguageStrings_recommendedForYou" = "Rekomendasi untuk Kamu";
+"LanguageStrings_topRated" = "Film Rating Tinggi";
+"LanguageStrings_upcoming" = "Film Akan Datang";

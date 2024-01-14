@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CinemaTix
+
+  Created by Eky on 12/12/23.
+  
+*/
+
+"LanguageStrings_signIn" = "Sign In";
+"LanguageStrings_register" = "Register";
+"LanguageStrings_home" = "Home";
+"LanguageStrings_wallet" = "Wallet";
+"LanguageStrings_profile" = "Profile";
+"LanguageStrings_playingNow" = "Playing Now";
+"LanguageStrings_recommendedForYou" = "Recommended for You";
+"LanguageStrings_topRated" = "Top Rated";
+"LanguageStrings_upcoming" = "Upcoming Movie";
